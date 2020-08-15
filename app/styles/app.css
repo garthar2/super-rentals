@@ -448,12 +448,14 @@ p {
 }
 
 .tomster {
-  background: url(../assets/images/teaching-tomster.png);
+  /*background: url(../assets/images/teaching-tomster.png);*/
+  background: url(../assets/images/zoi.png);
   background-size: contain;
   background-repeat: no-repeat;
-  height: 200px;
-  width: 200px;
-
+  /*height: 200px;*/
+  /*width: 200px;*/
+  height: 150px;
+  width: 150px;
   position: relative;
   top: -25px;
 }
