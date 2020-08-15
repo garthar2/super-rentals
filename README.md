@@ -1,4 +1,5 @@
 # super-rentals
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4db26cea-b10c-4114-b1dd-3f89127b7883/deploy-status)](https://app.netlify.com/sites/garthar1/deploys)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
