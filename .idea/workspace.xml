@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf689bc-58c2-40fb-bf15-f58b877b5804" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/routes/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/map.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/map.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/rental.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/rental.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/components/map-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/integration/components/map-test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/components/rental-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/integration/components/rental-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/api/rentals.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/api/rentals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/api/rentals/grand-old-mansion.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/api/rentals/grand-old-mansion.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +72,7 @@
       <workItem from="1597506475757" duration="1681000" />
       <workItem from="1597508914270" duration="23273000" />
       <workItem from="1597573147911" duration="5704000" />
-      <workItem from="1597579584667" duration="9075000" />
+      <workItem from="1597579584667" duration="11598000" />
     </task>
     <task id="LOCAL-00001" summary="15.18.20">
       <created>1597509075097</created>
@@ -133,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597581055972</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="16.18.20">
+      <created>1597589340816</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597589340816</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,10 +161,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="16.18.20" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2" timestamp="1597581055810">
+    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2" timestamp="1597589340712">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597581055810" />
+    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597589340712" />
     <state x="2531" y="276" key="FileChooserDialogImpl" timestamp="1597506562509">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -181,17 +185,5 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2423" y="231" width="672" height="678" key="search.everywhere.popup/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597573708161" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/app/routes/index.js</url>
-          <line>4</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
