@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf689bc-58c2-40fb-bf15-f58b877b5804" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/api/rentals/Кривой-Рог.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/api/rentals.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/api/rentals.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/api/rentals/grand-old-mansion.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/api/rentals/grand-old-mansion.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +34,7 @@
   </component>
   <component name="ProjectId" id="1g8eBhR4nw3DunSO11S11lDyDED" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/api/rentals" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,6 +54,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/api/rentals" />
       <recent name="$PROJECT_DIR$/public/assets/images" />
       <recent name="$PROJECT_DIR$/app/styles" />
     </key>
@@ -72,7 +72,7 @@
       <workItem from="1597506475757" duration="1681000" />
       <workItem from="1597508914270" duration="23273000" />
       <workItem from="1597573147911" duration="5704000" />
-      <workItem from="1597579584667" duration="11598000" />
+      <workItem from="1597579584667" duration="16255000" />
     </task>
     <task id="LOCAL-00001" summary="15.18.20">
       <created>1597509075097</created>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597589340816</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="16.18.20">
+      <created>1597591890194</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1597591890194</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,10 +168,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="16.18.20" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2" timestamp="1597589340712">
+    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2" timestamp="1597591890082">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597589340712" />
+    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597591890082" />
     <state x="2531" y="276" key="FileChooserDialogImpl" timestamp="1597506562509">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -173,10 +180,10 @@
       <screen x="0" y="42" width="1920" height="1038" />
     </state>
     <state x="657" y="165" key="SettingsEditor/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597506670912" />
-    <state x="2354" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597581086931">
+    <state x="2354" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597591929357">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2354" y="253" key="Vcs.Push.Dialog.v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597581086931" />
+    <state x="2354" y="253" key="Vcs.Push.Dialog.v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597591929357" />
     <state x="2424" y="246" key="run.anything.popup" timestamp="1597518434533">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>

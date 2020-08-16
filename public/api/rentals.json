@@ -50,6 +50,24 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg",
         "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
       }
+    },
+    {
+      "type": "rentals",
+      "id": "urban-living",
+      "attributes": {
+        "title": "Krivbass Rules",
+        "owner": "Alexander Turtlenko",
+        "city": "Kryvyi Rih",
+        "location": {
+          "lat": 47.9554,
+          "lng": 33.4472
+        },
+        "category": "Condo",
+        "bedrooms": 1,
+        "image": "https://i.imgur.com/NqbAK66.jpg",
+        "description": "A commuters dream. This rental is within walking distance of 2 bus stops and the Metro."
+      }
     }
+
   ]
 }
