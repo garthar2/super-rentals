@@ -1,18 +1,18 @@
 {
   "data": {
     "type": "rentals",
-    "id": "urban-living",
+    "id": "krivbass-rules",
     "attributes": {
-      "title": "Urban Living",
-      "owner": "Сашка Черепашка",
-      "city": "Кривой Рог",
+      "title": "Krivbass Rules",
+      "owner": "Alexander Turtlenko",
+      "city": "Kryvyi Rih",
       "location": {
         "lat": 47.9554,
         "lng": 33.4472
       },
       "category": "Condo",
       "bedrooms": 1,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg",
+      "image": "https://i.imgur.com/NqbAK66.jpg",
       "description": "A commuters dream. This rental is within walking distance of 2 bus stops and the Metro."
     }
   }
