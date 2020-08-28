@@ -23,7 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf689bc-58c2-40fb-bf15-f58b877b5804" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/components/rental/detailed.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/rental.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/integration/components/rental/detailed-test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/api/rentals.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/api/rentals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/api/rentals/urban-living.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/api/rentals/urban-living.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +80,7 @@
       <workItem from="1597573147911" duration="5704000" />
       <workItem from="1597579584667" duration="18324000" />
       <workItem from="1598557041399" duration="4866000" />
-      <workItem from="1598604647425" duration="6843000" />
+      <workItem from="1598604647425" duration="7817000" />
     </task>
     <task id="LOCAL-00001" summary="15.18.20">
       <created>1597509075097</created>
@@ -168,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598607230463</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="27.08.20">
+      <created>1598616167103</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1598616167103</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,10 +210,10 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2400" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597597942513" />
-    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598607230118">
+    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598616166996">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598607230118" />
+    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598616166996" />
     <state x="2531" y="276" key="FileChooserDialogImpl" timestamp="1597506562509">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -214,10 +226,10 @@
       <screen x="0" y="42" width="1920" height="1038" />
     </state>
     <state x="657" y="165" key="SettingsEditor/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597506670912" />
-    <state x="2354" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598607235914">
+    <state x="2354" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598616200180">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2354" y="253" key="Vcs.Push.Dialog.v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598607235914" />
+    <state x="2354" y="253" key="Vcs.Push.Dialog.v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598616200180" />
     <state x="2424" y="246" key="run.anything.popup" timestamp="1597518434533">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
