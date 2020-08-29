@@ -6,8 +6,10 @@ export default class RentalsFilterComponent extends Component {
 
 
     if (query) {
-      rentals = rentals.filter(rental => rental.title.includes(query) || rental.city.includes(query)
-        || rental.owner.includes(query));
+      rentals = rentals.filter(rental => rental.title.toLowerCase().includes(query.toLowerCase()) ||
+        rental.city.toLowerCase().includes(query.toLowerCase()) ||
+        rental.owner.toLowerCase().includes(query.toLowerCase()) ||
+        rental.type.toLowerCase().includes(query.toLowerCase()));
     }
 
     return rentals;

@@ -67,7 +67,23 @@
         "image": "https://i.imgur.com/eoFc77V.jpg",
         "description": "Скоростной трамвай домчит Вас на другой конец города."
       }
+    },
+    {
+      "type": "rentals",
+      "id": "karachuns-pleasure",
+      "attributes": {
+        "title": "Karachuns Pleasure",
+        "owner": "Arty Moriarty",
+        "city": "Kryvyi Rih",
+        "location": {
+          "lat": 47.8951,
+          "lng": 33.2961
+        },
+        "category": "Apartment",
+        "bedrooms": 1,
+        "image": "https://i.imgur.com/NPAHa1S.jpg",
+        "description": "Карачуны - прекрасный район  Кривого Рога!"
+      }
     }
-
   ]
 }
