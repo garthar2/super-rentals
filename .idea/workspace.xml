@@ -55,8 +55,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="ts.external.directory.path" value="$APPLICATION_PLUGINS_DIR$/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -82,7 +84,7 @@
       <workItem from="1598557041399" duration="4866000" />
       <workItem from="1598604647425" duration="17752000" />
       <workItem from="1598635084455" duration="18328000" />
-      <workItem from="1598690723391" duration="9652000" />
+      <workItem from="1598690723391" duration="11694000" />
     </task>
     <task id="LOCAL-00001" summary="15.18.20">
       <created>1597509075097</created>
@@ -259,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598699877126</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="29.08.20">
+      <created>1598712743988</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1598712743988</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,14 +300,18 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2554" y="380" key="#Scopes/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598639031989" />
+    <state x="2217" y="176" width="1104" height="697" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598714363271">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2217" y="176" width="1104" height="697" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598714363271" />
     <state x="2400" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598640070421">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2400" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598640070421" />
-    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598699877049">
+    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598712743912">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598699877049" />
+    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598712743912" />
     <state x="2531" y="276" key="FileChooserDialogImpl" timestamp="1597506562509">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -311,17 +324,21 @@
       <screen x="0" y="42" width="1920" height="1038" />
     </state>
     <state x="657" y="165" key="SettingsEditor/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597506670912" />
-    <state x="2354" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598699940912">
+    <state x="2354" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598712768268">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2354" y="253" key="Vcs.Push.Dialog.v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598699940912" />
+    <state x="2354" y="253" key="Vcs.Push.Dialog.v2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598712768268" />
+    <state x="2425" y="76" width="669" height="897" key="find.popup" timestamp="1598714586559">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2425" y="76" width="669" height="897" key="find.popup/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598714586559" />
     <state x="2424" y="246" key="run.anything.popup" timestamp="1597518434533">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2424" y="246" key="run.anything.popup/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1597518434533" />
-    <state x="2783" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1598711352781">
+    <state x="2783" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1598714493479">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2783" y="227" width="672" height="678" key="search.everywhere.popup/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598711352781" />
+    <state x="2783" y="227" width="672" height="678" key="search.everywhere.popup/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598714493479" />
   </component>
 </project>
