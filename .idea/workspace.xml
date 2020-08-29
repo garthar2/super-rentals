@@ -23,14 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baf689bc-58c2-40fb-bf15-f58b877b5804" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/rentals.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/rentals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/rentals/filter.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/rentals/filter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/integration/components/rentals-test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/application.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/application.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +79,8 @@
       <workItem from="1597579584667" duration="18324000" />
       <workItem from="1598557041399" duration="4866000" />
       <workItem from="1598604647425" duration="17752000" />
-      <workItem from="1598635084455" duration="18294000" />
+      <workItem from="1598635084455" duration="18328000" />
+      <workItem from="1598690723391" duration="2357000" />
     </task>
     <task id="LOCAL-00001" summary="15.18.20">
       <created>1597509075097</created>
@@ -242,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598638358533</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="27.08.20">
+      <created>1598656353996</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1598656353996</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,10 +278,10 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2400" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598640070421" />
-    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598638358384">
+    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2" timestamp="1598656353930">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598638358384" />
+    <state x="2234" y="42" width="936" height="974" key="CommitChangelistDialog2/0.42.1920.1038/1920.0.1680.1050@1920.0.1680.1050" timestamp="1598656353930" />
     <state x="2531" y="276" key="FileChooserDialogImpl" timestamp="1597506562509">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
